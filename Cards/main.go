@@ -19,6 +19,8 @@ func main() {
 	// card from func
 	card2 := newCard()
 	fmt.Println(card2)
+
+	printIt("Hello schmello")
 }
 
 // return types
